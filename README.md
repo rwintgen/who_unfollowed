@@ -32,7 +32,7 @@ Finally, launch the program:
 `--outfile / -o [filename]`: writes output to outfile whose path corresponds to `filename`. Will default to create a file in current working directory if none specified.  
 `--list / -l`: prints all followers and following as human-readable data.  
 `--sort / -s`: prints all followers and following sorted aplhabetically and by category (mutually followed accounts, followed by you, following you).  
-`--export / -x [format]`: output will be in the format specified by 'format'. Currently compatible with `.xls` only.  
+`--export / -x [format]`: output will be in the format specified by `format`. Currently compatible with `.xls` only.  
 `--help / -h`: prints the help panel.
 
 ## Uninstall

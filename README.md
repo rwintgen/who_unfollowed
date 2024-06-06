@@ -1,5 +1,5 @@
 # who_unfollowed
-Simple program that tells you which instagram profiles don't follow you back WITHOUT using Instagram's API and runs locally so you don't get banned.
+Simple program that tells you which Instagram profiles don't follow you back WITHOUT using Instagram's API and runs locally so you don't get banned.
 
 To use this program, you will need to request to [download your data](https://help.instagram.com/181231772500920/?helpref=uf_share) from Meta (instagram)!
 
